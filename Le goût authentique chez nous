@@ -1,0 +1,8 @@
+DIDI-Restaurant/
+├── images/
+│   ├── logo-didi.png  (le logo rond N°1)
+│   ├── riz-sauce.jpg
+│   ├── to-babenda.jpg
+│   └── poisson-braise.jpg
+├── index.html  (ton site)
+└── README.md
